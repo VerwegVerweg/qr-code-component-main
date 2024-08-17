@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400..700&display=swap');
+
+
+body {
+  background-color: hsl(212, 45%, 89%);
+  font-family: "Outfit", sans-serif;
+  font-size: 15px;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  min-height: 100vh;
+}
+
+img {
+  width: 100%;
+  border-radius: 11px;
+}
+
+h1 {
+  color: hsl(218, 44%, 22%);
+  
+}
+
+.main {
+  background-color: hsl(0, 0%, 100%);
+  max-width: 375px;
+  margin: 0 auto;
+  border-radius: 16px;
+  padding: 16px;
+  text-align: center;
+}
+
+.info {
+  color: hsl(216, 15%, 48%);
+  padding: 20px 10px;
+}
+
+
+
+
+
+
+
+  
